@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Organetto';
+    src: url('fonts/Fontspring-DEMO-organetto-cndbold.otf');
+}
+
+body{
+    font-family: 'Organetto';
+    background-color: #1CBC9D;
+    color: white;
+}
+
+.bg-nav{
+    background-color: #2C3E4F;
+}
+
+.navbar{
+    height: 90px;
+}
+
+.navbar-brand{
+    font-size: 40px;
+}
+
+.profile{
+    border-radius: 50%;
+    background-color: #2C3E4F;
+}
+
+.hr-pc{
+    display: flex;
+}
+
+.hr-line{
+    width: 100%;
+    position: relative;
+    margin: 15px;
+    border-bottom: 5px solid #2C3E4F;
+}
